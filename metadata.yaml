@@ -1,0 +1,25 @@
+_repo: The-Ancient-East_7474
+creator:
+  author:
+    agent_name: Hogarth, D. G. (David George)
+    alias: Hogarth, David George
+    birthdate: 1862
+    deathdate: 1927
+    gutenberg_agent_id: '2480'
+    url: http://www.gutenberg.org/2009/agents/2480
+    wikipedia: http://en.wikipedia.org/wiki/D._G._Hogarth
+description: ''
+gutenberg_issued: '2005-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7474'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Home University Library of Modern Knowledge, No. 92
+subjects:
+- !lcsh 'Middle East -- History'
+- !lcc 'DS'
+title: The Ancient East
+url: http://www.gutenberg.org/ebooks/7474
